@@ -29,7 +29,7 @@ Ziel war es, einen funktionalen Prototypen zu entwickeln, der als Grundlage für
 - Spawn-System mit Randomisierung
 
 ### 🧪 Technik & Shader
-- Pixel-Art-Shader (custom, mit Tiefenschärfe)
+- Pixel-Art-Shader (custom, mit Tiefenschärfe, mit Cel Shader)
 - Shader für Effekte: Spawn, Hit, Slash, Hologramm
 - Rendering via Multi-Camera-Setup (PixelCam, DepthCam)
 - Stylisierte Lichtstimmung & Regenpartikel
