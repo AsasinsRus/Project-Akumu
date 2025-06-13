@@ -58,7 +58,13 @@ Ziel war es, einen funktionalen Prototypen zu entwickeln, der als Grundlage für
 
 ## 📸 Screenshots
 
-
+<p align="center">
+  <img src="screenshots/menu.png" width="300"/> <img src="screenshots/player.png" width="300"/>
+  <img src="screenshots/map.png" width="300"/> <img src="screenshots/Enemys.png" width="300"/>
+  <br>
+  <img src="screenshots/drone.gif"/>
+  <img src="screenshots/compering.gif"/>
+</p>
 
 ---
 
